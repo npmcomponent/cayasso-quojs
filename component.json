@@ -19,5 +19,5 @@
     "type": "git",
     "url": "https://raw.github.com/cayasso/quojs",
   },
-  "scripts": ["quo.js"],
+  "scripts": ["quo.js"]
 }
