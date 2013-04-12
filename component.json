@@ -13,5 +13,5 @@
     "mobile"
   ],
   "license": "MIT",
-  "scripts": ["index.js", quo.js"]
+  "scripts": ["index.js", "quo.js"]
 }
