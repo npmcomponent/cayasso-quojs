@@ -1,1 +1,1 @@
-module.exports = require('./quojs');
+module.exports = require('./quo');
