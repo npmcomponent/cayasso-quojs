@@ -1,23 +1,17 @@
 {
   "name": "quojs",
   "description": "Micro #JavaScript Library for Mobile Devices",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "homepage": "http://quojs.tapquo.com",
   "author": {
     "name": "Tapquo S.L."
   },
   "main": [
-    "quo.js"
+    "index.js"
   ],
   "keywords": [
     "mobile"
   ],
-  "license": [{ "type": "MIT"}],
-  "_id": "QuoJS@2.3.0",
-  "readme": "ERROR: No README.md file found!",
-  "repository": {
-    "type": "git",
-    "url": "https://raw.github.com/cayasso/quojs"
-  },
-  "scripts": ["quo.js"]
+  "license": "MIT",
+  "scripts": ["index.js", quo.js"]
 }
