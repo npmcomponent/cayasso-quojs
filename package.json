@@ -1,0 +1,13 @@
+{
+  "name": "cayasso-quojs",
+  "description": "Micro #JavaScript Library for Mobile Devices",
+  "version": "2.3.1",
+  "keywords": [
+    "mobile"
+  ],
+  "main": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
